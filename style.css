@@ -435,4 +435,10 @@ section{
     .contact form{
         flex-direction: column-reverse;
     }
+    .social-icons a{
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+   
+   }
 }
