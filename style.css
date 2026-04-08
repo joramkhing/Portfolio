@@ -387,6 +387,7 @@ section{
     }
     .home{
         flex-direction: column-reverse;
+        text-align: center;
         margin: 5rem 0;
         gap: 5rem;
     }
@@ -413,7 +414,7 @@ section{
     font-size: 4rem;
    }
     .service-box{
-    height: 800px;
+    height: 700px;
    }
     .service-info{
     display: flex;
