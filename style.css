@@ -415,6 +415,13 @@ section{
     .service-box{
     height: 800px;
    }
+    .service-info{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
     .about img{
         width: 52vw;
     }
