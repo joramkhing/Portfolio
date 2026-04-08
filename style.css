@@ -406,7 +406,7 @@ section{
         font-size: 2rem;
     }
     .home h3{
-        font-size:2rem;
+        font-size:3rem;
     }
     .about h2{
         text-align: center;
@@ -420,7 +420,7 @@ section{
         font-size: 4rem;
     }
     .service-box{
-        height: 700px;
+        height: 750px;
     }
     .service-info{
         display: flex;
