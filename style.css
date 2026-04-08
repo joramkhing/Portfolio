@@ -406,12 +406,15 @@ section{
         margin: 2rem 0;
     }
     .service-info h4{
-        font-size: 3rem;
+        font-size: 2rem;
         
     }
     .service-info i{
     font-size: 4rem;
-}
+   }
+    .service-box{
+    height: 800px;
+   }
     .about img{
         width: 52vw;
     }
