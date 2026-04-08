@@ -411,18 +411,21 @@ section{
         
     }
     .service-info i{
-    font-size: 4rem;
-   }
+        font-size: 4rem;
+    }
     .service-box{
-    height: 700px;
-   }
+        height: 700px;
+    }
     .service-info{
-    display: flex;
-    flex-direction: column;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
-}
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+    .home-content h3{
+      font-size: 2rem;
+    }
     .about img{
         width: 52vw;
     }
