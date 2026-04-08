@@ -405,6 +405,13 @@ section{
         text-align: center;
         margin: 2rem 0;
     }
+    .service-info h4{
+        font-size: 3rem;
+        
+    }
+    .service-info i{
+    font-size: 4rem;
+}
     .about img{
         width: 52vw;
     }
