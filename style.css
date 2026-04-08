@@ -394,6 +394,7 @@ section{
     .home-content{
         align-items: center;
         text-align: center;
+        font-size: 2rem;
     }
     .home-img{
         width: 56vw;
@@ -422,9 +423,6 @@ section{
         text-align: center;
         justify-content: center;
         align-items: center;
-    }
-    .home-content h3{
-      font-size: 2rem;
     }
     .about img{
         width: 52vw;
