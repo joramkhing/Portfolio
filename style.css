@@ -394,7 +394,6 @@ section{
     .home-content{
         align-items: center;
         text-align: center;
-        font-size: 2rem;
     }
     .home-img{
         width: 56vw;
@@ -402,6 +401,12 @@ section{
     .about{
         flex-direction: column-reverse;
         text-align: center;
+    }
+    .home h1{
+        font-size: 2rem;
+    }
+    .home h3{
+        font-size:2rem;
     }
     .about h2{
         text-align: center;
